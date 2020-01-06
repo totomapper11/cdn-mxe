@@ -1,0 +1,7 @@
+.git/
+..gpg
+update.sh
+git.sh
+*.sha.*
+*.php
+uploads/
