@@ -4,4 +4,4 @@ update.sh
 git.sh
 *.sha.*
 *.php
-uploads/
+uploads/avatars/avatar_1*
